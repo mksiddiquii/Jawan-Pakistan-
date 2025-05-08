@@ -311,10 +311,13 @@
   padding-bottom: 0px;
   margin: 15px;
   text-align: center;
-  border: 2px solid black;
+  border: 1px solid #404553;
   border-radius: 6px;
   font-size: 13px;
-
+}
+.view-all-2 a{
+  color: #404553;
+  text-decoration: none;
 }
 .banner-4{ 
   background-color:white;
