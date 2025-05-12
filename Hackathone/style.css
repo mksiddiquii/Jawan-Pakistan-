@@ -1,0 +1,32 @@
+.bg_color{
+    background-color: #51643D !important;
+}
+body {
+      font-family: 'Arial', sans-serif;
+      background-color: #51643D !important;
+      color: white;
+    }
+    .hero {
+      min-height: 150px;
+      display: flex;
+      align-items: center;
+    }
+    .highlight {
+      color: #fdd835; /* yellow highlight */
+    }
+    .btn-outline-warning {
+      border: 1px solid #fdd835;
+      color: #fdd835;
+      padding: 15px;
+    }
+    .btn-outline-warning:hover {
+      background-color: #fdd835;
+      color: black;
+    }
+.bg_color1{
+    background-color: #EBE5D0;
+}
+.bg_color2{
+      background-color: #fdd835;
+   
+}
